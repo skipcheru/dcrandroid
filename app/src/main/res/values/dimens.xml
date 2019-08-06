@@ -29,6 +29,11 @@
 
     <dimen name="mainnet_logo_bottom_margin">5dp</dimen>
 
+    <dimen name="tab_indicator_width">74dp</dimen>
+    <dimen name="visible_balance_text_size">40sp</dimen>
+    <dimen name="send_receive_button_corner_radius">100dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
+
     <!--Padding and Margins -->
     <dimen name="margin_padding_size_8">8dp</dimen>
     <dimen name="margin_padding_size_12">12dp</dimen>
